@@ -24,7 +24,10 @@
 ### 🔍 Tech
   - [x] Java JDK 8
   - [x] Apache Tomcat v.8.5
+  - [x] JDBC API를 이용해 데이터베이스 연결
   - [x] MySQL을 활용한 데이터 관리
+  - [x] JSP를 활용한 Backend 구현
+  - [x] JavaScript를 활용한 DOM 조작
   - [x] AJAX를 활용한 비동기처리
 
 ---
