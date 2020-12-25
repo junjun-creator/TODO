@@ -17,14 +17,15 @@
 ### ✌️시연
   - 할 일 등록하기  
 ![todo등록하기](https://user-images.githubusercontent.com/65852909/103117368-71f37800-46ad-11eb-838f-4ebb6c1fc576.gif)
-  - 할 일 상태변경하기  
+  - 할 일 상태변경하기(AJAX)  
 ![진행상태변경하기](https://user-images.githubusercontent.com/65852909/103117381-820b5780-46ad-11eb-8abb-4a6448cce22d.gif)
 
 ---
 ### 🔍 Tech
   - [x] Java JDK 8
   - [x] Apache Tomcat v.8.5
-  - [x] MySQL
+  - [x] MySQL을 활용한 데이터 관리
+  - [x] AJAX를 활용한 비동기처리
 
 ---
 ### 💼Download
