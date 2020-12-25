@@ -13,13 +13,19 @@
 ### 👍제작기간
   - 2020.06.26
   
+---
 ### ✌️시연
-![](https://images.velog.io/images/junjun-creator/post/28864c86-ce89-477f-b0b1-0fd28d93e7ac/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-12-11%20%EC%98%A4%ED%9B%84%205.19.46.png)
+  - 할 일 등록하기  
+![todo등록하기](https://user-images.githubusercontent.com/65852909/103117368-71f37800-46ad-11eb-838f-4ebb6c1fc576.gif)
+  - 할 일 상태변경하기  
+![진행상태변경하기](https://user-images.githubusercontent.com/65852909/103117381-820b5780-46ad-11eb-8abb-4a6448cce22d.gif)
 
+---
 ### 🔍 Tech
   - [x] Java JDK 8
   - [x] Apache Tomcat v.8.5
   - [x] MySQL
-  
+
+---
 ### 💼Download
   - git clone https://github.com/junjun-creator/TODO.git
